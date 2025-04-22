@@ -16,7 +16,7 @@ Here's a short video that explains the project and how it uses Redis:
 - Frontend - _React_, _Socket.IO_
 - Backend - _Flask_, _Redis_
 
-## How it works?
+## How it works?.
 
 ### Initialization
 
